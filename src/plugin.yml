@@ -1,0 +1,13 @@
+name: TerraRune
+main: net.notlord.Main
+version: '0.1'
+api-version: 1.19
+load: POSTWORLD
+author: NotLord
+description: cool plugin.
+
+commands:
+  gitem:
+    description: gives player item by id.
+  info:
+    description: display item info.

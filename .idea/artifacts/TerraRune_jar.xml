@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TerraRune:jar">
+    <output-path>$PROJECT_DIR$/../../Plugins/1.19-TestingServer/plugins</output-path>
+    <root id="archive" name="TerraRune.jar">
+      <element id="module-output" name="TerraRune" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Libraries/gson-2.8.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Libraries/joml-1.10.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Libraries/spigot-1.19.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

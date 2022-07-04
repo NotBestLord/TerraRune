@@ -1,0 +1,9 @@
+mana, magic, enchant, infuse, refine,
+
+
+mythril, adamantite, titanium, platinum.
+
+gems, sapphire, ruby, jade,
+
+elven trade, trade portal, trades change per day, moon cycle changes trades.
+elven metals
